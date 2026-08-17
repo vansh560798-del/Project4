@@ -116,40 +116,41 @@ t => 1
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone Project4
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd Filament
+cd Project4
 ```
 
 ### 3. Compile Q1
 
 ```bash
-gcc Q1.c -o Q1
+gcc Q1.c
 ```
 
 ### 4. Run Q1
 
 ```bash
-./Q1
+./a.exe
 ```
 
 ### 5. Compile Q2
 
 ```bash
-gcc Q2.c -o Q2
+gcc Q2.c
 ```
 
 ### 6. Run Q2
 
 ```bash
-./Q2
+./a.exe
 ```
 
-> On Windows, use `Q1.exe` and `Q2.exe` to run the compiled programs.
+> On Mac,Linux(also works with windows) use `g++ Q1.c | g++ Q2.c`to run the compiled programs.
+> On Mac,Linux(also works with windows) use `./a.out`to run the compiled programs.
 
 ## 📚 Learning Outcomes
 
