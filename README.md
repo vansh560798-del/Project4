@@ -48,12 +48,11 @@ The given string is a Palindrome.
 
 The string length is calculated manually, without using functions such as `strlen()`.
 
-## 🧩 Programs Included
+### 🧩 Question-1 Included
 
-**Code-->Q1**
+####Code-->Q1
 
 <img width="1440" height="900" alt="Untitled" src="https://github.com/user-attachments/assets/e958ac9d-5146-455d-88ca-8501a37d98d3" />
-
 
 **Result**
 
@@ -93,7 +92,7 @@ t => 1
 * Character comparison
 * Counting and tracking duplicate characters
 
-## 🧩 Programs Included
+## 🧩 Question-2 Included
 
 **Code-->Q2**
 
@@ -128,7 +127,7 @@ cd Project4
 ### 3. Compile Q1
 
 ```bash
-gcc Q1.c
+gcc Q1-Palindrome Checker.c
 ```
 
 ### 4. Run Q1
@@ -140,7 +139,7 @@ gcc Q1.c
 ### 5. Compile Q2
 
 ```bash
-gcc Q2.c
+gcc Q2-Frequency Counter.c
 ```
 
 ### 6. Run Q2
@@ -173,7 +172,7 @@ After completing this project, the following concepts are demonstrated:
 
 ## 👨‍💻 Project Information
 
-**Project Name:** Filament
+**Project Name:** PR. 6 Filament
 **Language:** C
 **Total Questions:** 2
 **Project Type:** C Language Practical Project
