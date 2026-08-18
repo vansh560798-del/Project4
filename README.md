@@ -50,12 +50,10 @@ The string length is calculated manually, without using functions such as `strle
 
 ### 🧩 Question-1 Included
 
-####Code-->Q1
-
+**Code-->Q1**
 <img width="1440" height="900" alt="Untitled" src="https://github.com/user-attachments/assets/e958ac9d-5146-455d-88ca-8501a37d98d3" />
 
 **Result**
-
 <img width="1440" height="900" alt="Untitled 2" src="https://github.com/user-attachments/assets/066b941e-6fb5-40f3-b284-ad746e31a8ce" />
 
 
@@ -95,12 +93,9 @@ t => 1
 ## 🧩 Question-2 Included
 
 **Code-->Q2**
-
 <img width="1440" height="900" alt="Untitled 3" src="https://github.com/user-attachments/assets/a423be3f-1856-48ac-87b2-523e2fbaf89b" />
 
-
 **Result**
-
 <img width="1440" height="900" alt="Untitled 4" src="https://github.com/user-attachments/assets/23b55fb0-80cc-43ef-8027-cc0ef310ed4f" />
 
 
